@@ -1,7 +1,3 @@
-// Copyright 2019 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-
 import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
@@ -23,6 +19,8 @@ class FakeController extends ValueNotifier<VideoPlayerValue>
   @override
   String get dataSource => '';
   @override
+  Map<String, String> get headers => null;
+  @override
   DataSourceType get dataSourceType => DataSourceType.file;
   @override
   String get package => null;
@@ -41,9 +39,6 @@ class FakeController extends ValueNotifier<VideoPlayerValue>
   Future<void> play() async {}
   @override
   Future<void> setLooping(bool looping) async {}
-
-  @override
-  VideoFormat get formatHint => null;
 }
 
 void main() {
@@ -54,7 +49,7 @@ void main() {
 
     controller.textureId = 123;
     controller.value = controller.value.copyWith(
-      duration: const Duration(milliseconds: 100),
+      duration: Duration(milliseconds: 100),
     );
 
     await tester.pump();
@@ -67,7 +62,7 @@ void main() {
     await tester.pumpWidget(VideoPlayer(controller1));
     expect(
         find.byWidgetPredicate(
-          (Widget widget) => widget is Texture && widget.textureId == 101,
+              (Widget widget) => widget is Texture && widget.textureId == 101,
         ),
         findsOneWidget);
 
@@ -76,7 +71,7 @@ void main() {
     await tester.pumpWidget(VideoPlayer(controller2));
     expect(
         find.byWidgetPredicate(
-          (Widget widget) => widget is Texture && widget.textureId == 102,
+              (Widget widget) => widget is Texture && widget.textureId == 102,
         ),
         findsOneWidget);
   });

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac76c2b7-47ca-4f8f-b8a4-102891fe6d33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/videoplayer/VideoPlayerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/videoplayer/VideoPlayerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/VideoPlayerPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/VideoPlayerPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/video_player.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/video_player.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/video_player_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/video_player_test.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/video_player_test.dart" />
+        <option value="$PROJECT_DIR$/lib/video_player.dart" />
+        <option value="$PROJECT_DIR$/ios/Classes/VideoPlayerPlugin.m" />
+        <option value="$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/videoplayer/VideoPlayerPlugin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1692" />
+    <option name="y" value="23" />
+    <option name="width" value="1850" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="videoPlayerWithheader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="videoPlayerWithheader" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="videoplayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac76c2b7-47ca-4f8f-b8a4-102891fe6d33" name="Default Changelist" comment="" />
+      <created>1569217537834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569217537834</updated>
+      <workItem from="1569217561642" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1692" y="23" width="1850" height="1027" extended-state="0" />
+    <layout>
+      <window_info id="UI Designer" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3329646" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Ant Build" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/video_player_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/video_player.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="172" column="23" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Classes/VideoPlayerPlugin.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6015">
+          <caret line="401" lean-forward="true" selection-start-line="401" selection-end-line="401" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/src/main/java/io/flutter/plugins/videoplayer/VideoPlayerPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="438" lean-forward="true" selection-start-line="438" selection-end-line="438" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7680#7681#0" expanded="true" />
+            <element signature="e#7745#7746#0" expanded="true" />
+            <element signature="e#7821#7822#0" expanded="true" />
+            <element signature="e#7886#7887#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+            <element signature="e#9982#9983#0" expanded="true" />
+            <element signature="e#10002#10003#0" expanded="true" />
+            <element signature="e#10049#10050#0" expanded="true" />
+            <element signature="e#10087#10088#0" expanded="true" />
+            <element signature="e#10167#10168#0" expanded="true" />
+            <element signature="e#10359#10360#0" expanded="true" />
+            <element signature="e#10399#10400#0" expanded="true" />
+            <element signature="e#10425#10426#0" expanded="true" />
+            <element signature="e#10476#10477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
