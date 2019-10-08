@@ -1,3 +1,12 @@
+## 0.10.2+3
+
+* change readme.ps:If you uesed chewei Plugin,Please changed chewei Import.
+  
+## 0.10.2+2
+
+* add header
+
+
 ## 0.10.2+1
 
 * Use DefaultHttpDataSourceFactory only when network schemas and use

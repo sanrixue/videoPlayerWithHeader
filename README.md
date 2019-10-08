@@ -51,7 +51,7 @@ The Flutter project template adds it, so it may already be there.
 ### Example
 
 ```dart
-import 'package:video_player/video_player.dart';
+import 'package:video_player_header/video_player_header.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(VideoApp());
@@ -110,4 +110,8 @@ class _VideoAppState extends State<VideoApp> {
     _controller.dispose();
   }
 }
+
+//ps:If you uesed chewei Plugin,Please changed chewei Import.
 ```
+
+

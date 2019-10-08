@@ -1,6 +1,6 @@
-# video_player_example
+# video_player_header_example
 
-Demonstrates how to use the video_player plugin.
+Demonstrates how to use the video_player_header plugin.
 
 ## Getting Started
 

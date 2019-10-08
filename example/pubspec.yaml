@@ -1,5 +1,5 @@
-name: video_player_example
-description: Demonstrates how to use the video_player plugin.
+name: video_player_header_example
+description: Demonstrates how to use the video_player_header plugin.
 
 dependencies:
   flutter:
@@ -9,7 +9,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  video_player:
+  video_player_header:
     path: ../
 
 flutter:

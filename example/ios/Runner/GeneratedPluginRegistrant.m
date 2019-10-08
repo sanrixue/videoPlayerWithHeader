@@ -3,7 +3,7 @@
 //
 
 #import "GeneratedPluginRegistrant.h"
-#import <video_player/VideoPlayerPlugin.h>
+#import <video_player_header/VideoPlayerPlugin.h>
 
 @implementation GeneratedPluginRegistrant
 
