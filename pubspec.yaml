@@ -1,8 +1,8 @@
 name: video_player_header
 description: Flutter plugin for displaying inline video with other Flutter
   widgets on Android and iOS. And Add Header .
-author: Flutter Team <flutter-dev@googlegroups.com>
-version: 0.10.2+3
+author: Flutter Team <1040811211@qq.com>
+version: 0.10.2+4
 homepage: https://github.com/sanrixue/videoPlayerWithHeader.git
 
 flutter:

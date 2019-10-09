@@ -333,7 +333,7 @@ public class VideoPlayerPlugin implements MethodCallHandler {
   public void onMethodCall(MethodCall call, Result result) {
     TextureRegistry textures = registrar.textures();
     if (textures == null) {
-      result.error("no_activity", "video_player plugin requires a foreground activity", null);
+      result.error("no_activity", "video_player_header plugin requires a foreground activity", null);
       return;
     }
     switch (call.method) {

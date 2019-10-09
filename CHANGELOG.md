@@ -1,3 +1,7 @@
+## 0.10.2+4
+
+* [iOS] Fixed IOS pod install
+  
 ## 0.10.2+3
 
 * change readme.ps:If you uesed chewei Plugin,Please changed chewei Import.

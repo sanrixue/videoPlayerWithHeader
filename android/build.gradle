@@ -1,4 +1,4 @@
-def PLUGIN = "video_player";
+def PLUGIN = "video_player_header";
 def ANDROIDX_WARNING = "flutterPluginsAndroidXWarning";
 gradle.buildFinished { buildResult ->
     if (buildResult.failure && !rootProject.ext.has(ANDROIDX_WARNING)) {

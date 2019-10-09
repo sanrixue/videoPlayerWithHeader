@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/xueyujing/Desktop/Flutter/flutter
-FLUTTER_APPLICATION_PATH=/Users/xueyujing/Desktop/flutterDemo/FlutterPlugin/video_player-0.10.2+1/example
+FLUTTER_APPLICATION_PATH=/Users/xueyujing/Desktop/flutterDemo/FlutterPlugin/video_player_header-0.10.2+1/example
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
